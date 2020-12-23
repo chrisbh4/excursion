@@ -1,0 +1,39 @@
+
+
+html{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer{
+    text-align: right;
+    color: gray;
+}
+
+.link{
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+
+h1{
+    font-family: verdana ;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;   
+}
+
+.app-details{
+    font-family: verdana ;
+    font-size: 21px;
+    color: gray;
+}
+
+
+i{
+
+    max-height: 10px;
+    max-width: 15px;
+}
